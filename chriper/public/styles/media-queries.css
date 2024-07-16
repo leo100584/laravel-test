@@ -1,0 +1,7 @@
+@media (min-width: 576px) {
+	body {
+		/*flex-direction: column;
+		height: 100%*/
+		 display: block;
+	}
+}
